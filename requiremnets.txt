@@ -1,0 +1,13 @@
+click==6.7
+EasyProcess==0.2.3
+Flask==0.12.2
+gunicorn==19.7.1
+itsdangerous==0.24
+Jinja2==2.10
+MarkupSafe==1.0
+numpy==1.14.0
+opencv-python==3.4.0.12
+Pillow==5.0.0
+pyscreenshot==0.4.2
+Werkzeug==0.14.1
+pyautogui==0.9.36
